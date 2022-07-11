@@ -1,4 +1,4 @@
-# mr._clean
+# Mr. Clean
 ### I have created a ML Model for classification of 'Adult & Unwanted Images'.
 This is an approach to make web & social platforms clean and purposeful. By this way you can avoid any irrelevant content on your own platform.
 ###
