@@ -25,6 +25,7 @@ I am attaching model summary for better understanding.
 3. Compile the loaded model **model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])**.
 4. Now add some images in Testing folder.
 5. Run model on that folder.
+##
 ![](https://github.com/AKSHATM99/mr._clean/blob/4f780649ba1292ba43a2eef511d7ac0dd4130aea/mr.%20clean/Assets/carbon1x.png)
 
 
