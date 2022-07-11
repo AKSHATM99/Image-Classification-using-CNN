@@ -17,6 +17,7 @@ I am attaching model summary for better understanding.
 
 ![Summary](https://github.com/AKSHATM99/mr._clean/blob/c3f5808c677d4e49a7e11fbe3d9a2413073815cb/Model%20Summary.png)
 
-## How to use - 
+
+# How to use pretrained model -
 
 1. Open main file.
