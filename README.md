@@ -21,5 +21,5 @@ I am attaching model summary for better understanding.
 # How to use pretrained model -
 ##
 1. Open 'main.ipynb' file.
-2. Load the model by using 'load_model' function.
-3. Compile the loaded model 'model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])'.
+2. Load the model by using **load_model** function.
+3. Compile the loaded model **model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])**.
