@@ -28,5 +28,11 @@ I am attaching model summary for better understanding.
 ##
 ![](https://github.com/AKSHATM99/mr._clean/blob/4f780649ba1292ba43a2eef511d7ac0dd4130aea/mr.%20clean/Assets/carbon1x.png)
 
+## Tools Used-
+1. TensorFlow
+2. Keras
+3. Numpy
+4. Python 3.8
+5. Jupyter Notebook
 
 
