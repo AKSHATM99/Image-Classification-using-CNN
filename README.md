@@ -15,4 +15,4 @@ I am attaching model summary for better understanding.
 
 ## Model Summary
 
-! [summary](Model Summary.png)
+![summary](Model Summary.png)
